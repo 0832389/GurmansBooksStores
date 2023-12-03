@@ -16,4 +16,3 @@ Then, edited the file name from bootstrap.min.css to bootstrap.css in _Layout.cs
 changed nav class from navbar-light to navbar-dark and bg-white to bg-primary.
 Edited footer class.
 Then, removed text-dark from the line mentioned in the ppt. 
-At 4:40 PM.
