@@ -21,3 +21,4 @@ Tested the project and it worked as i am able to see the choosen theme.
 At 5:01 PM 
 added additional stylesheets in_Layout.cshtml file.
 Then. added additional scripts to use in the same file.
+Now, added dropdown menu.
