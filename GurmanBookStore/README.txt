@@ -28,3 +28,4 @@ Now, added 3 Projects mentioned in the ppt (Models,Utility,DataAccess).
 installed the 2 packages (Relational and SqlServer).
 Then, added the another package. (Identity)
 changed the namespace to reflect the project in ApplicationDbContext.cs file.
+Deleted Class1.cs files from the 3 projects.
