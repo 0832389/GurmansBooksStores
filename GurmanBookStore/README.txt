@@ -5,3 +5,8 @@ Then, i added README.txt file.
 Then, opened the launchSettings.json file and commented the sslport.
 Then, i checked my _ViewStart.cshtml file and it is okay.
 After that, i checked my all the folders like HomeController.cs, ErrorViewModel.cs, _ViewImport.cshtml and _ViewStart.cshtml.
+Did repository commits.
+Then, Put breakpoints on Index and Privacy in HomeController.cs.
+Then, tested the application.Due to the breakpoints it did not opened.
+Then, continue to issexpress to get the output. At this point i got the Privacy Policy page.
+Now, i commited as i am done with part 1.2.
