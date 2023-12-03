@@ -24,3 +24,6 @@ Then. added additional scripts to use in the same file.
 Now, added dropdown menu.
 Check the output. It is okay.
 changed the text Dropdown to "content Management".
+Now, added 3 Projects mentioned in the ppt (Models,Utility,DataAccess).
+installed the 2 packages (Relational and SqlServer).
+Then, added the another package. (Identity)
