@@ -31,3 +31,6 @@ changed the namespace to reflect the project in ApplicationDbContext.cs file.
 Deleted Class1.cs files from the 3 projects.
 2023-12-05 at 7:19 AM.
 Now, added project reference.
+Added project references.
+Edited the name of models folder to ViewModels.
+Changed the namspace of ErrorViewModels.cs to reflect the project.
