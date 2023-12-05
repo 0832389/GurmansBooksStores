@@ -10,11 +10,13 @@
     <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="5.0.17" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Relational" Version="5.0.17" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="5.0.17" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="5.0.2" />
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\GurmansBooksStore.DataAccess\GurmansBooksStore.DataAccess.csproj" />
     <ProjectReference Include="..\GurmansBooksStore.Models\GurmansBooksStore.Models.csproj" />
+    <ProjectReference Include="..\GurmansBooksStore.Utility\GurmansBooksStore.Utility.csproj" />
   </ItemGroup>
 
 </Project>

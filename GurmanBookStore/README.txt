@@ -39,3 +39,5 @@ Correct the ErrorViewModel reference.
 Build the project.
 Created a static details class in Utility project.
 Modified the properties.
+Added Customer in Areas folder.
+Changed the pattern in Startup.cs.
